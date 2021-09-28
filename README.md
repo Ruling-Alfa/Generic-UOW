@@ -1,2 +1,2 @@
-# Generic-UOW
-Generic Unit of Work with Repository Providers in .net Core
+# usersAPI
+General API for use with some application to consume an external API. The code contains implementation of Factory design pattern for Logger and Singleton for In-Memory-Cache
